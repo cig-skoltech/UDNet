@@ -20,7 +20,7 @@ The folder matlab/custom_layers contains all the CNN layers that are used to bui
 Training of the networks  UNET and UNLNET for grayscale and color images can be accomplished   
 using the scripts provided in the folder networks-training.   
 
-NOTE : In order to add the package into Matlab\'92s path you need to first execute the script vl_setupnn located in the folder matlab/vl_layers/
+NOTE : In order to add the package into Matlab's path you need to first execute the script vl_setupnn located in the folder matlab/vl_layers/
 
 Dependencies  
 
